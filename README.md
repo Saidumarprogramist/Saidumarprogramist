@@ -16,7 +16,6 @@
 ### 🧠 Tech Stack:
 <p align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
