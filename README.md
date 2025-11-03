@@ -4,16 +4,16 @@
 
 ![Banner](https://github.com/Saidumarprogramist/Saidumarprogramist/blob/main/banner.png)
 
----
+<!-- 🌌 MY MISSION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00E0FF&center=true&vCenter=true&width=550&lines=Building+the+Future+with+Code;Creating+7CODES+for+the+Next+Generation" alt="Mission Typing Animation" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Team-7CODES%20%2F%20SAINDAM-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-FullStack-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Language-English%20%7C%20Uzbek-1f1f1f?style=for-the-badge&logo=google-translate&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=80&section=footer&animation=fadeIn" />
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 
 I'm **Saidumar**, a young developer from Uzbekistan with **engineering thinking** and a **strong visual sense**.  
@@ -24,6 +24,7 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 ⚙️ Always learning, always improving.
 
 ---
+
 
 ### 🛠️ Tech Stack
 
@@ -45,6 +46,21 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 
 ---
 
+
+### 💼 Career Goals
+- 🚀 Become a strong **Full-Stack Developer** with deep Django knowledge  
+- 🌍 Contribute to open-source projects  
+- 💡 Build my own startup with **7CODES / SAINDAM**
+
+---
+
+### 🧩 Knowledge Map
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidumarprogramist&theme=tokyonight" alt="summary"/>
+</p>
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -54,12 +70,27 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 
 ---
 
+
 ### 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/7codes_saindam"><img src="https://img.shields.io/badge/Instagram-7CODES%20%2F%20SAINDAM-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/IMS_PROGRAMMERS"><img src="https://img.shields.io/badge/Telegram-7CODES-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.youtube.com/@7codes_saindam"><img src="https://img.shields.io/badge/YouTube-7CODES%20%2F%20SAINDAM-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+
+### 🧭 Quote
+<p align="center">
+  <i>“Don’t just code. Create systems that inspire.”</i>  
+  — Saidumar Abdujabborov
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Team-7CODES%20%2F%20SAINDAM-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-FullStack-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-English%20%7C%20Uzbek-1f1f1f?style=for-the-badge&logo=google-translate&logoColor=white"/>
 </p>
 
 ---
