@@ -6,7 +6,7 @@
 
 <!-- 🌌 MY MISSION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00E0FF&center=true&vCenter=true&width=550&lines=Building+the+Future+with+Code;Creating+7CODES+for+the+Next+Generation" alt="Mission Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=00E0FF&center=true&vCenter=true&width=550&lines=Building+the+Future+with+Code;Creating+7CODES+for+the+Next+Generation;Empowering+Developers+Through+Innovation" alt="Mission Typing Animation" />
 </p>
 
 <p align="center">
@@ -14,29 +14,38 @@
 </p>
 
 ---
+
 ### 👨‍💻 About Me
 
-I'm **Saidumar**, a young developer from Uzbekistan with **engineering thinking** and a **strong visual sense**.  
+I'm **Saidumar Abdujabborov**, a young developer from Uzbekistan with **engineering thinking** and a **strong visual sense**.  
 Currently focused on becoming a **Junior Full-Stack Developer**, mastering both **Frontend** and **Backend** with **Django**.  
 
-🚀 Working with my team **7CODES / SAINDAM** to create creative, high-quality digital projects.  
+🚀 Working with my team **7CODES / SAINDAM** to create creative, high-quality digital products.  
 💡 Passionate about programming, design, and innovation.  
 ⚙️ Always learning, always improving.
 
 ---
 
-
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,python,django,git,github,npm,yarn,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,python,django,git,github,npm,yarn,vscode" />
 </p>
 
 ---
 
-### ⚙️ Projects & Highlights
+### ⚙️ Current Focus
 
-🧩 I'm currently developing my skills and preparing to release my real projects soon:
+- 🚀 Building projects as a **Junior Full-Stack Developer**
+- 🎨 Creating clean and animated web interfaces  
+- 🧠 Deepening my **Django + Frontend** integration knowledge  
+- 🧩 Growing the **7CODES / SAINDAM** team brand and skills  
+
+---
+
+### 💼 Projects & Highlights
+
+🧩 I'm currently developing my skills and preparing to release my first real-world projects soon:
 
 - 🚀 **[Mini Blog (Django)]()** — personal blog with registration, CRUD, and admin panel.  
 - 📦 **[ToDo / CRM API]()** — REST-backend with authentication and task management.  
@@ -46,20 +55,23 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 
 ---
 
+### 🌐 7CODES / SAINDAM Vision
 
-### 💼 Career Goals
-- 🚀 Become a strong **Full-Stack Developer** with deep Django knowledge  
-- 🌍 Contribute to open-source projects  
-- 💡 Build my own startup with **7CODES / SAINDAM**
+> _"We’re not just coding — we’re engineering the next digital generation."_
+
+- 🔥 A team of young innovators from Uzbekistan  
+- 💡 Building creative and scalable web projects  
+- 🌍 Expanding knowledge, skills, and global presence  
 
 ---
 
-### 🧩 Knowledge Map
+### 🧠 Knowledge Map
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saidumarprogramist&theme=tokyonight" alt="summary"/>
 </p>
 
+---
 
 ### 📊 GitHub Stats
 
@@ -70,7 +82,6 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 
 ---
 
-
 ### 🌍 Connect With Me
 
 <p align="center">
@@ -79,13 +90,13 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
   <a href="https://www.youtube.com/@7codes_saindam"><img src="https://img.shields.io/badge/YouTube-7CODES%20%2F%20SAINDAM-ff0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
+---
 
 ### 🧭 Quote
 <p align="center">
   <i>“Don’t just code. Create systems that inspire.”</i>  
   — Saidumar Abdujabborov
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Team-7CODES%20%2F%20SAINDAM-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
