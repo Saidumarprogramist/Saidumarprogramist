@@ -1,6 +1,7 @@
 <!-- ===================================================== -->
 <!-- 🔥 SAIDUMAR ABDUJABBOROV | 7CODES / SAINDAM -->
 <!-- ===================================================== -->
+![Banner](https://github.com/Saidumarprogramist/Saidumarprogramist/blob/main/banner.png)
 
 <h1 align="center">👋 Привет, я Saidumar!</h1>
 <h3 align="center">Junior Full-Stack Developer | Django & Frontend Enthusiast</h3>
