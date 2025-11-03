@@ -6,19 +6,6 @@
 
 ---
 
-<!-- 🌐 LANGUAGE SWITCH -->
-<p align="center">
-  <a href="#">🇺🇸 English</a> |
-  <a href="#">🇷🇺 Русский (soon)</a>
-</p>
-
-<!-- 🔥 ANIMATED LINE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=3&section=header&reversal=true" />
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Team-7CODES%20%2F%20SAINDAM-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Focus-FullStack-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
