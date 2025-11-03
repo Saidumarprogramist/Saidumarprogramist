@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Saidumar!</h1>
+<h3 align="center">Junior Full-Stack Developer | Django Enthusiast | Creative Engineer</h3>
 
-<!--
-**Saidumarprogramist/Saidumarprogramist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌍 Ташкент, Узбекистан · 💡 Люблю создавать современные веб-приложения
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/Saidumarprogramist">
+    <img src="https://komarev.com/ghpvc/?username=Saidumarprogramist&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack:
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="30" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" />
+</p>
