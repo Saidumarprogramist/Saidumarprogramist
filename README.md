@@ -1,7 +1,22 @@
 <!-- ===================================================== -->
-<!-- 🔥 SAIDUMAR ABDUJABBOROV | 7CODES / SAINDAM -->
+<!-- ⚡ SAIDUMAR ABDUJABBOROV | 7CODES / SAINDAM -->
 <!-- ===================================================== -->
+
 ![Banner](https://github.com/Saidumarprogramist/Saidumarprogramist/blob/main/banner.png)
+
+---
+
+<!-- 🌐 LANGUAGE SWITCH -->
+<p align="center">
+  <a href="#">🇺🇸 English</a> |
+  <a href="#">🇷🇺 Русский (soon)</a>
+</p>
+
+<!-- 🔥 ANIMATED LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=3&section=header&reversal=true" />
+</p>
+
 ---
 
 <p align="center">
@@ -11,25 +26,18 @@
 </p>
 
 ---
+
 ### 👨‍💻 About Me
 
-I'm **Saidumar**, a young developer from Uzbekistan with engineering thinking and a strong visual sense.  
+I'm **Saidumar**, a young developer from Uzbekistan with **engineering thinking** and a **strong visual sense**.  
 Currently focused on becoming a **Junior Full-Stack Developer**, mastering both **Frontend** and **Backend** with **Django**.  
 
 🚀 Working with my team **7CODES / SAINDAM** to create creative, high-quality digital projects.  
 💡 Passionate about programming, design, and innovation.  
 ⚙️ Always learning, always improving.
 
-
-<h1 align="center">👋 Привет, я Saidumar!</h1>
-<h3 align="center">Junior Full-Stack Developer | Django & Frontend Enthusiast</h3>
-
-<p align="center">
-  🚀 Молодой талант с инженерным мышлением и визуальным вкусом.<br/>
-  🌍 Ташкент, Узбекистан · 💡 Создаю современные веб-сайты, где код и дизайн работают вместе.
-</p>
-
 ---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -39,25 +47,27 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 ---
 
 ### ⚙️ Projects & Highlights
-🧩 Пока я развиваю свои навыки, здесь появятся реальные проекты на **Django** и **Frontend**:
-- 🚀 **[Mini Blog (Django)]()** — личный блог с регистрацией, CRUD и админкой.  
-- 📦 **[ToDo / CRM API]()** — REST-backend с авторизацией.  
-- 💻 **[Landing Page / Portfolio]()** — frontend на HTML, CSS, Tailwind.  
-*(скоро появятся ссылки и демо)*
+
+🧩 I'm currently developing my skills and preparing to release my real projects soon:
+
+- 🚀 **[Mini Blog (Django)]()** — personal blog with registration, CRUD, and admin panel.  
+- 📦 **[ToDo / CRM API]()** — REST-backend with authentication and task management.  
+- 💻 **[Landing Page / Portfolio]()** — responsive frontend built with Tailwind.  
+
+*(Links and demos coming soon)*
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saidumarprogramist&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saidumarprogramist&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-
 ---
 
-### 🌍 Find Me Online
+### 🌍 Connect With Me
 
 <p align="center">
   <a href="https://www.instagram.com/7codes_saindam"><img src="https://img.shields.io/badge/Instagram-7CODES%20%2F%20SAINDAM-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -67,10 +77,17 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 
 ---
 
+### ✨ Profile Insights
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saidumarprogramist&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 <p align="center">
-  <b>“Code. Design. Inspire.”</b>
+  <b><i>“Code. Design. Inspire.”</i></b>
+</p>
+
+<!-- 💫 ANIMATED FOOTER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Django+%26+Frontend+Enthusiast;Building+7CODES+%2F+SAINDAM" alt="Typing SVG" />
 </p>
