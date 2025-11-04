@@ -120,3 +120,5 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Django+%26+Frontend+Enthusiast;Building+7CODES+%2F+SAINDAM" alt="Typing SVG" />
 </p>
+
+![Snake](https://profile-readme-generator.com/assets/snake.svg)
