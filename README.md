@@ -29,7 +29,7 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,python,django,git,github,npm,yarn,pnpm,bun,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,materialui,scss,python,django,git,github,npm,yarn,pnpm,bun,vscode" />
 </p>
 
 ---
