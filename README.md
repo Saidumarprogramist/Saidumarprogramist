@@ -43,17 +43,28 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 
 ---
 
-### 💼 Projects & Highlights
+## 💼 Projects & Highlights
 
-🧩 I'm currently developing my skills and preparing to release my first real-world projects soon:
+🚀 Here are some of my key projects:
 
-- 🚀 **[Mini Blog (Django)]()** — personal blog with registration, CRUD, and admin panel.  
-- 📦 **[ToDo / CRM API]()** — REST-backend with authentication and task management.  
-- 💻 **[Landing Page / Portfolio](burger-king-wine.vercel.app)** — responsive frontend built with Tailwind.  
-
-*(Links and demos coming soon)*
+### 💻 Landing Page / Portfolio
+- 🔗 Live Demo: https://burger-king-wine.vercel.app  
+- ⚙️ Tech: React, Vite, Tailwind CSS  
+- 📌 Features: Responsive design, modern UI, fast loading  
 
 ---
+
+### 🧩 Mini Blog (Django)
+- 🔗 Live Demo: Coming soon  
+- ⚙️ Tech: Django, SQLite/PostgreSQL  
+- 📌 Features: Authentication, CRUD, admin panel  
+
+---
+
+### 📦 ToDo / CRM API
+- 🔗 API Docs: Coming soon  
+- ⚙️ Tech: Django REST Framework  
+- 📌 Features: JWT auth, task management, RESTful endpoints  
 
 ### 🌐 7CODES / SAINDAM Vision
 
