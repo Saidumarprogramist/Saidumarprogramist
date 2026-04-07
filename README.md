@@ -49,7 +49,7 @@ Currently focused on becoming a **Junior Full-Stack Developer**, mastering both 
 
 - 🚀 **[Mini Blog (Django)]()** — personal blog with registration, CRUD, and admin panel.  
 - 📦 **[ToDo / CRM API]()** — REST-backend with authentication and task management.  
-- 💻 **[Landing Page / Portfolio]()** — responsive frontend built with Tailwind.  
+- 💻 **[Landing Page / Portfolio](burger-king-wine.vercel.app)** — responsive frontend built with Tailwind.  
 
 *(Links and demos coming soon)*
 
